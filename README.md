@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Sandeep Pant**, a **Full Stack Developer** specializing in **Laravel** and **Vue.js**. With extensive experience in developing and managing complex web applications, I am passionate about building **efficient, scalable, and high-performing** solutions.  
+I'm **Sandeep Pant**, a **Full Stack Developer** with expertise in **Laravel** and **Vue.js**. I have a strong background in building and managing complex web applications and am dedicated to creating **efficient, scalable, and high-performing** solutions.  
 
 ## What I Do  
 🚀 **Backend Development**: Crafting powerful APIs and scalable server-side solutions using Laravel.  
