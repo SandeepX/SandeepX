@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**SandeepX/SandeepX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sandeep Pant**, a **Full Stack Developer** specializing in **Laravel** and **Vue.js**. With extensive experience in developing and managing complex web applications, I am passionate about building **efficient, scalable, and high-performing** solutions.  
 
-Here are some ideas to get you started:
+## What I Do  
+🚀 **Backend Development**: Crafting powerful APIs and scalable server-side solutions using Laravel.  
+🎨 **Frontend Development**: Creating dynamic, responsive, and interactive UIs with Vue.js, HTML, CSS, JavaScript, and AJAX.  
+🔧 **Open Source Contributions**: Developed a **Laravel Date Converter package** to seamlessly work with AD and BS dates.  
+🛠️ **DevOps & Performance**: Optimizing server performance, database queries, and deployment processes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Blogs & Writing  
+I also share my knowledge and insights by writing blogs on **Medium**. Stay updated with my latest posts!  
+[📝 Medium](https://medium.com/@sandeeppant)  
+
+
+## Let's Connect  
+Interested in discussing **web development, open-source contributions, or innovative project ideas**? Feel free to reach out!  
+
+[🔗 LinkedIn](https://www.linkedin.com/in/sandeep-pant-a62891176/) | [🌐 Portfolio](https://sandeepx.github.io/portfolio/)  
+
