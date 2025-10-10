@@ -17,5 +17,5 @@ I also share my knowledge and insights by writing blogs on **Medium**. Stay upda
 ## Let's Connect  
 Interested in discussing **web development, open-source contributions, or innovative project ideas**? Feel free to reach out!  
 
-[🔗 LinkedIn](https://www.linkedin.com/in/sandeep-pant-a62891176/) | [🌐 Portfolio](https://sandeepx.github.io/portfolio/)  
+[🔗 LinkedIn](https://www.linkedin.com/in/sandeep-pant-a62891176/) | [🌐 Portfolio](https://sandeeppant.com.np)  
 
