@@ -4,8 +4,8 @@ I'm **Sandeep Pant**, a **Full Stack Developer** with expertise in **Laravel** a
 
 ## What I Do  
 🚀 **Backend Development**: Crafting powerful APIs and scalable server-side solutions using Laravel.  
-🎨 **Frontend Development**: Creating dynamic, responsive, and interactive UIs with Vue.js, HTML, CSS, JavaScript, and AJAX.  
-🔧 **Open Source Contributions**: Developed a **Laravel Date Converter package** to seamlessly work with AD and BS dates.  
+🎨 **Frontend Development**: Creating dynamic, responsive, and interactive UIs with Vue.js, React js HTML, CSS, JavaScript, and AJAX.  
+🔧 **Open Source Contributions**: Developed a **Laravel Date Converter package and laravel curdify** to seamlessly work with AD and BS dates and crud operations respectively.  
 🛠️ **DevOps & Performance**: Optimizing server performance, database queries, and deployment processes.  
 
 
